@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yudhikkamboj
 - 👀 I’m interested in Java, Backend development
-- 🌱 I’m currently learning TDD, js, react, etc
 - 💞️ I’m looking to collaborate on any kind of project 
 - 📫 yudhik15@gmail.com
 
